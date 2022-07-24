@@ -33,7 +33,7 @@ Completed:
 * R Shiny web app: ["Regional Economic Dashboard
 "](https://scotland.shinyapps.io/sg-regional-economic-dashboard/), [GitHub repo here](https://github.com/DataScienceScotland/sg-regional-economic-dashboard).
 * R Shiny web app: ["Enterprise and Skills Dashboard
-"](), [GitHub repo here](https://scotland.shinyapps.io/sg-enterprise-and-skills-dashboard/).
+"](https://scotland.shinyapps.io/sg-enterprise-and-skills-dashboard/), [GitHub repo here](https://github.com/DataScienceScotland/sg-enterprise-and-skills-dashboard).
 * R Shiny web app: ["Wellbeing Economy Monitor"](https://szymkowskidev.shinyapps.io/sg-wellbeing-economy-monitor/), [GitHub repo here](https://github.com/DataScienceScotland/sg-wellbeing-economy-monitor).
 * R Shiny web app: ["sails"](https://szymkowskidev.shinyapps.io/sail/), [GitHub repo here](https://github.com/SzymkowskiDev/sails).
 
