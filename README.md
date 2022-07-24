@@ -20,8 +20,8 @@ Additionally, I have been involved in projects using: Python, SQL and React Nati
 
 ## 👨‍💻 Public Projects
 Current:
-* "NLP Disaster Tweets": Group project submission for Kaggle's competition on classyfing tweets with NLP, [GitHub repo here](https://github.com/SzymkowskiDev/nlp-disaster-tweets)
-* "Crime in the UK": Group Python project on NLP analysis of crime data harvested from the web, [GitHub repo here](https://github.com/SzymkowskiDev/crime-in-the-uk)
+* ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group project submission for Kaggle's competition on classyfing tweets with NLP, part of [2022 Zaprogramuj życie group projects](https://zaprogramujzycie.pl/)
+* ["Crime in the UK"](https://github.com/SzymkowskiDev/crime-in-the-uk): Group Python project on NLP analysis of crime data harvested from the web
 
 Planned:
 * Deployment of a Python-developed website to https://www.pythonanywhere.com/ free server
