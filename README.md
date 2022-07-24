@@ -22,10 +22,12 @@ Additionally, I have been involved in projects using: Python, SQL and React Nati
 Current:
 * Group submission for Kaggle's competition on classyfing tweets with NLP [SzymkowskiDev/nlp-disaster-tweets](https://github.com/SzymkowskiDev/nlp-disaster-tweets)
 * Group Python project on NLP analysis of crime data harvested from the web [SzymkowskiDev/crime-in-the-uk](https://github.com/SzymkowskiDev/crime-in-the-uk)
+
 Planned:
 * Deployment of a Python-developed website to https://www.pythonanywhere.com/ free server
 * Library extension to Pandas
 * Spark application
+
 Completed:
 * R Shiny web app: ["Exports Performance Monitor"](https://scotland.shinyapps.io/sg-exports-performance-monitor/), [GitHub repo here](https://github.com/DataScienceScotland/sg-exports-performance-monitor).
 * R Shiny web app: ["Regional Economic Dashboard
