@@ -2,7 +2,7 @@
 # Welcome to my GitHub profile!
 I intend to use it for showcasing my skill set and for connecting with entrepreneurs, employers, co-workers and recruitment professionals.
 
-I graduated with a degree in Mathematics in 2018. Since then, I have worked as a Statistician, Mobile App Developer, and Data Scientist. Currently, my main professional interests lie in Data Enginering and Data Science at large.
+I graduated with a degree in Mathematics in 2018. Since then, I have worked as a Statistician, Mobile App Developer, and Data Scientist. Currently, my main professional interests lie in Data Engineering and Data Science at large.
 
 I offer over 2 years of commercial experience working with R plus 4 years of academic experience with this technology. While employed as a Data Scientist and Statistician I used it for data visualisation and web development. While I was a student of mathematics, I used R for statistical analysis, scientific computing, risk modelling and machine learning. 
 
