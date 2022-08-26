@@ -10,9 +10,29 @@ Additionally, I have been involved in projects using: Python, SQL and React Nati
 
 ## 🤖 Stack
 # My current focus:
+
+<img src="https://img.shields.io/badge/-pandas-0x550415?logo=pandas&logoColor=0x00C4F7&style=Plastic" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{pandas}-{0x550415}?logo={pandas}&logoColor={0x00C4F7}&style={Plastic}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-{BADGELABEL}-{COLOR/HEX}?logo={ICON-NAME}&logoColor={LOGO-COLOR}&style={STYLE}" alt="badge sample"/>
+
+
+
 <code><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/></code>
 <code><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></code>
+
+
+<code><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></code>
+
+
+
+
 
 # Used in the past:
 <code><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
