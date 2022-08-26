@@ -9,6 +9,11 @@ I offer over 2 years of commercial experience working with R plus 4 years of aca
 Additionally, I have been involved in projects using: Python, SQL and React Native among other technologies.
 
 ## 🤖 Stack
+
+<code><img alt="Git" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
+
+
+
 * Python
 * Pandas
 * R
