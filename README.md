@@ -29,9 +29,9 @@ Additionally, I have been involved in projects using: Python, SQL and React Nati
 ## 👨‍💻 Public Projects
 Current:
 * ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/)
-* ["Crime in the UK"](https://github.com/SzymkowskiDev/crime-in-the-uk): Group Python project on NLP analysis of crime data harvested from the web
 
 Completed:
+* ["Crime in the UK"](https://github.com/SzymkowskiDev/crime-in-the-uk): Group Python project on NLP analysis of crime data harvested from the web
 * ["Exports Performance Monitor"](https://scotland.shinyapps.io/sg-exports-performance-monitor/): R Shiny web app developed for the Scottish Government, [GitHub repo here](https://github.com/DataScienceScotland/sg-exports-performance-monitor).
 * ["Regional Economic Dashboard
 "](https://scotland.shinyapps.io/sg-regional-economic-dashboard/): R Shiny web app developed for the Scottish Government, [GitHub repo here](https://github.com/DataScienceScotland/sg-regional-economic-dashboard).
