@@ -28,9 +28,6 @@ Additionally, I have been involved in projects using: Python, SQL and React Nati
 
 ## 👨‍💻 Public Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymkowskiDev)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Current:
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
 * ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/)
