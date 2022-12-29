@@ -8,31 +8,20 @@ I offer over 2 years of commercial experience working with R plus 4 years of aca
 
 Additionally, I have been involved in projects using: Python, SQL and React Native among other technologies.
 
-## 🤖 Stack
+## 🤖 Programming Languages
 ### My current focus:
 <code><img alt="Python" src="https://img.shields.io/badge/Python-356C9B?style=for-the-badge&logo=python&logoColor=F7CA3F"/></code>
-<code><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=E00484"/></code>
-<code><img alt="Spark" src="https://img.shields.io/badge/Spark-3A383C?style=for-the-badge&logo=Apache%20Spark&logoColor=DB571B"/></code>
-<code><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img alt="Docker" src="https://img.shields.io/badge/Docker-2392E6?style=for-the-badge&logo=Docker&logoColor=F7F7F7"/></code>
-### Used in the past:
 <code><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
-<code><img alt="Plotly" src="https://img.shields.io/badge/Plotly-1098F7?style=for-the-badge&logo=Plotly&logoColor=24F6F5"/></code>
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
-<code><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
-<code><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></code>
-<code><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
-<code><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
-<code><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></code>
-<code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></code>
 
 ## 👨‍💻 Public Projects
 
 Current:
-* A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
-* ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/)
+I'm currently too busy at work for side-projecs. I'm open for collaboration starting from Autumn 2023.
 
 Completed:
+* A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
+* ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/)
 * ["Crime in the UK"](https://github.com/SzymkowskiDev/crime-in-the-uk): Group Python project on NLP analysis of crime data harvested from the web
 * ["Exports Performance Monitor"](https://scotland.shinyapps.io/sg-exports-performance-monitor/): R Shiny web app developed for the Scottish Government, [GitHub repo here](https://github.com/DataScienceScotland/sg-exports-performance-monitor).
 * ["Regional Economic Dashboard
