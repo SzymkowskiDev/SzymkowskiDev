@@ -1,15 +1,9 @@
 
 # Welcome to my GitHub profile!
-I intend to use it for showcasing my skill set and for connecting with entrepreneurs, employers, co-workers and recruitment professionals.
 
-I graduated with a degree in Mathematics in 2018. Since then, I have worked as a Statistician, Mobile App Developer, and Data Scientist. Currently, my main professional interests lie in Data Engineering and Data Science at large.
-
-I offer over 2 years of commercial experience working with R plus 4 years of academic experience with this technology. While employed as a Data Scientist and Statistician I used it for data visualisation and web development. While I was a student of mathematics, I used R for statistical analysis, scientific computing, risk modelling and machine learning. 
-
-Additionally, I have been involved in projects using: Python, SQL and React Native among other technologies.
+I offer over 3 years of commercial experience in the data science and software engineering industry. My programming languages are Python and R. In these two ecosystems, I have developed APIs, built analytics dashboards, and written numerous scripts for data transformations. I am also experienced in both relational database design and SQL queries. Before specialising in backend, I used to be a mobile app developer with React Native, as a result, I am also familiar with front-end technologies. I have acted as SCRUM master in different teams.
 
 ## 🤖 Programming Languages
-### My current focus:
 <code><img alt="Python" src="https://img.shields.io/badge/Python-356C9B?style=for-the-badge&logo=python&logoColor=F7CA3F"/></code>
 <code><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
@@ -17,7 +11,7 @@ Additionally, I have been involved in projects using: Python, SQL and React Nati
 ## 👨‍💻 Public Projects
 
 Current:
-I'm currently too busy at work for side-projecs. I'm open for collaboration starting from Autumn 2023.
+* I'm currently too busy at work for side-projecs. I'm open for collaboration starting from Autumn 2023.
 
 Completed:
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
