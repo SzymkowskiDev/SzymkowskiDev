@@ -10,7 +10,7 @@ I offer 4 years of commercial experience in the data science and software engine
 ## 👨‍💻 Public Projects
 
 Current:
-* I'm currently too busy at work for side-projecs. I'm open for collaboration starting from Autumn 2023.
+* [My new project is under development](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 
 Completed:
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
