@@ -10,7 +10,7 @@ I offer 4 years of commercial experience in the data science and software engine
 ## 👨‍💻 Public Projects
 
 Current:
-* [My new project is under development](https://github.com/users/SzymkowskiDev/projects/8/views/1)
+* [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform) [My new project is under development](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 
 Completed:
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
