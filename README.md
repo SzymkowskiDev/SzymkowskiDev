@@ -1,15 +1,16 @@
 
 # Welcome to my GitHub profile!
 
-I offer 4 years of commercial experience in the data science and software engineering industry. My programming languages are Python and R. In these two ecosystems, I have developed APIs, built analytics dashboards, and written numerous scripts for data transformations. I am also experienced in both relational database design and SQL queries. Before settling down on the backend, I used to be a mobile app developer with React Native, as a result, I am also familiar with front-end technologies. I have acted as SCRUM master in different teams.
+I offer 4 years of commercial experience in the data science and software engineering industry. My programming languages are Python and R. In these two ecosystems, I have developed APIs, built analytics dashboards, and written numerous scripts for data transformations. I am also experienced in both relational database design and SQL queries. Before settling down on the backend, I used to be a mobile app developer with React Native, as a result, I am also familiar with front-end technologies.
+
+Other than the engineering-side I also persue other disciplines that contribute to the success of software development projects. Things like business planning and requirements gathering, SCRUM methodology, teamwork and leadership. All important for the end goal and hence important to me.
 
 <code><img alt="Python" src="https://img.shields.io/badge/Python-356C9B?style=for-the-badge&logo=python&logoColor=F7CA3F"/></code>
 <code><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
-<code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
 
 ## 👨‍💻 Public Projects
 
-Current:
+Group projects in 2023:
 * [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), My new project is under development [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 
 Completed:
