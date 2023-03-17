@@ -9,7 +9,6 @@ Other than the engineering-side I also persue other disciplines that contribute 
 <code><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></code>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Python+4live%2C+contact+me+for+collab)](https://git.io/typing-svg)
-
 ## 👨‍💻 Public Projects
 
 Group projects in 2023:
