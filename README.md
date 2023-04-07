@@ -13,7 +13,7 @@ Other than the engineering-side I also persue other disciplines that contribute 
 
 Group projects in 2023:
 * [Estate Marketplace](https://github.com/SzymkowskiDev/estate-marketplace), My new project is under development [kanban](https://github.com/users/SzymkowskiDev/projects/10/views/1)
-* [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
+* A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 
 Completed:
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
