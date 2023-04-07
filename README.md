@@ -12,7 +12,7 @@ Other than the engineering-side I also persue other disciplines that contribute 
 ## 👨‍💻 Public Projects
 
 Group projects in 2023:
-* [Employee Data Platform](https://github.com/SzymkowskiDev/employee-data-platform), My new project is under development [kanban](https://github.com/users/SzymkowskiDev/projects/9/views/1)
+* [Estate Marketplace](https://github.com/SzymkowskiDev/estate-marketplace), My new project is under development [kanban](https://github.com/users/SzymkowskiDev/projects/10/views/1)
 * [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 
 Completed:
