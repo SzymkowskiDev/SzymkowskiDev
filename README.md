@@ -12,7 +12,8 @@ Other than the engineering-side I also persue other disciplines that contribute 
 ## 👨‍💻 Public Projects
 
 Group projects in 2023:
-* [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), My new project is under development [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
+* [Employee Data Platform](https://github.com/SzymkowskiDev/employee-data-platform), My new project is under development [kanban](https://github.com/users/SzymkowskiDev/projects/9/views/1)
+* [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 
 Completed:
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
