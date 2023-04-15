@@ -11,11 +11,11 @@ Other than the engineering-side I also persue other disciplines that contribute 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Python+4live%2C+contact+me+for+collab)](https://git.io/typing-svg)
 ## 👨‍💻 Public Projects
 
-Group projects in 2023:
+Current/Upcoming:
 * [Estate Marketplace](https://github.com/SzymkowskiDev/estate-marketplace), My new project is under development [kanban](https://github.com/users/SzymkowskiDev/projects/10/views/1)
-* A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 
 Completed:
+* A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
 * ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/)
 * ["Crime in the UK"](https://github.com/SzymkowskiDev/crime-in-the-uk): Group Python project on NLP analysis of crime data harvested from the web
