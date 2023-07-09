@@ -15,7 +15,7 @@ Current/Upcoming:
 * [Media Recommenders](https://github.com/SzymkowskiDev/media-recommenders), AWS cloud setup for media recommendation engines [kanban](https://github.com/users/SzymkowskiDev/projects/12/views/1)
 
 Completed:
-* Data engineering system for real estate trade  [Estate Marketplace](https://github.com/SzymkowskiDev/estate-marketplace), [kanban](https://github.com/users/SzymkowskiDev/projects/10/views/1)
+* Docker setup for a data engineering system for real estate trade  [Estate Marketplace](https://github.com/SzymkowskiDev/estate-marketplace), [kanban](https://github.com/users/SzymkowskiDev/projects/10/views/1)
 * A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
 * ["NLP Disaster Tweets"](https://github.com/SzymkowskiDev/nlp-disaster-tweets): Group submission to Kaggle's competition on classyfing tweets with NLP, part of [2022 zaprogramuj życie summer group projects](https://zaprogramujzycie.pl/)
