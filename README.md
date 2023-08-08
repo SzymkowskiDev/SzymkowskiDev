@@ -12,7 +12,7 @@ Other than the engineering-side I also persue other disciplines that contribute 
 ## 👨‍💻 Public Projects
 
 Current/Upcoming:
-*  AWS cloud setup for media recommendation engines: [Media Recommenders](https://github.com/SzymkowskiDev/media-recommenders), [kanban](https://github.com/users/SzymkowskiDev/projects/12/views/1)
+*  AWS cloud setup for media recommendation engines: [Media Recommenders](https://github.com/SzymkowskiDev/media-recommenders), [kanban]([Kanban](https://github.com/users/SzymkowskiDev/projects/12/views/1))
 
 Completed:
 * Docker setup for a data engineering system for real estate trade  [Estate Marketplace](https://github.com/SzymkowskiDev/estate-marketplace), [kanban](https://github.com/users/SzymkowskiDev/projects/10/views/1)
