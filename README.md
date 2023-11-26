@@ -1,7 +1,7 @@
 
 # Welcome to my GitHub profile!
 
-I offer 4 years of commercial experience in the data science and software engineering industry. My programming languages are Python and R. In these two ecosystems, I have developed APIs, built analytics dashboards, and written numerous scripts for data transformations. I am also experienced in both relational database design and SQL queries. Before settling down on the backend, I used to be a mobile app developer with React Native, as a result, I am also familiar with front-end technologies.
+With 5 years of experience in the data science and software engineering industry, I bring experience in Python and AWS. Within these ecosystems, I have successfully created data engineered solutions. Proficient in relational database design and skilled in SQL queries, I possess a solid foundation in backend development.
 
 Other than the engineering-side I also persue other disciplines that contribute to the success of software development projects. Things like business planning and requirements gathering, SCRUM methodology, teamwork and leadership. All important for the end goal and hence important to me.
 
