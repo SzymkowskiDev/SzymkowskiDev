@@ -12,10 +12,10 @@ Other than the engineering-side I also persue other disciplines that contribute 
 ## 👨‍💻 Public Projects
 
 Current/Upcoming:
-* [Data Warehouse Webinar](https://github.com/SzymkowskiDev/data-warehouse-webinar)
-*  AWS cloud setup for media recommendation engines: [Media Recommenders](https://github.com/SzymkowskiDev/media-recommenders), [kanban]([Kanban](https://github.com/users/SzymkowskiDev/projects/12/views/1))
+* [Terraform Webinar](https://github.com/SzymkowskiDev/terraform-webinar)
 
 Completed:
+* [Data Warehouse Webinar](https://github.com/SzymkowskiDev/data-warehouse-webinar)
 * Docker setup for a data engineering system for real estate trade  [Estate Marketplace](https://github.com/SzymkowskiDev/estate-marketplace), [kanban](https://github.com/users/SzymkowskiDev/projects/10/views/1)
 * A master data management system: [Workforce Data Platform](https://github.com/SzymkowskiDev/workforce-data-platform), [kanban](https://github.com/users/SzymkowskiDev/projects/8/views/1)
 * A stock management app ["WiseBox"](https://github.com/SzymkowskiDev/WiseBox)
