@@ -12,7 +12,7 @@ Other than the engineering-side I also persue other disciplines that contribute 
 ## 👨‍💻 Public Projects
 
 Current/Upcoming:
-[not public]
+* ...
 
 Completed:
 * [Terraform Webinar](https://github.com/SzymkowskiDev/terraform-webinar)
